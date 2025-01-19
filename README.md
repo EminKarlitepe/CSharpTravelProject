@@ -27,3 +27,10 @@ FrmStatistics, kullanıcıya lokasyonlar ve rehberler hakkında çeşitli istati
 - **En Yüksek Kapasiteli Lokasyon** 🏙️: En yüksek kapasiteye sahip olan lokasyonun şehir ismini gösterir.
 - **En Yüksek Fiyatlı Lokasyon** 💵: En yüksek fiyatlı lokasyonun şehir ismini gösterir.
 - **Rehber Sayısı** 🧳: Her rehberin görev yaptığı lokasyon sayısını gösterir.
+
+## Kullanılan Teknolojiler 🛠️
+
+- **C#**: Uygulama geliştirme dili.
+- **Windows Forms**: Grafiksel kullanıcı arayüzü (GUI) oluşturmak için kullanılan teknoloji.
+- **Entity Framework (EF)**: Veritabanı yönetimi ve işlemleri için kullanılan ORM (Object-Relational Mapping) aracı.
+- **SQL Server**: Veritabanı yönetim sistemi.
