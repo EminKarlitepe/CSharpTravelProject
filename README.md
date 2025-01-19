@@ -1,4 +1,4 @@
-# EFProject - C# Eğitim Kampı Projesi 🌍✈️
+# C# Eğitim Kampı Travel Projesi 🌍✈️
 
 Bu proje, C# Eğitim Kampında Windows Forms uygulaması kullanarak geliştirilmiş bir seyahat yönetim uygulamasıdır. Proje, kullanıcıların rehberler ve lokasyonlar hakkında çeşitli bilgiler görmesini sağlar. Ayrıca, rehberlerin yönetimi ve lokasyonların kapasite gibi istatistiksel verilerini de görüntüleyebilirsiniz.
 
