@@ -17,6 +17,9 @@ Form1, kullanıcıların rehberler üzerinde CRUD (Create, Read, Update, Delete)
 - **Rehber Güncelleme** ✏️: Bir rehberin ad ve soyad bilgileri güncellenebilir.
 - **Rehber ID ile Getirme** 🔍: Belirli bir rehberin bilgileri, ID numarası ile getirilip listelenebilir.
 
+- ![image](https://github.com/user-attachments/assets/4c4e137e-7ec3-408a-b27d-c70e2762b3da)
+
+
 ### 2. **İstatistik Görüntüleme 📊**
 FrmStatistics, kullanıcıya lokasyonlar ve rehberler hakkında çeşitli istatistiksel bilgiler sağlar. Aşağıdaki veriler görüntülenebilir:
 
@@ -27,6 +30,9 @@ FrmStatistics, kullanıcıya lokasyonlar ve rehberler hakkında çeşitli istati
 - **En Yüksek Kapasiteli Lokasyon** 🏙️: En yüksek kapasiteye sahip olan lokasyonun şehir ismini gösterir.
 - **En Yüksek Fiyatlı Lokasyon** 💵: En yüksek fiyatlı lokasyonun şehir ismini gösterir.
 - **Rehber Sayısı** 🧳: Her rehberin görev yaptığı lokasyon sayısını gösterir.
+
+- ![Ekran görüntüsü 2025-01-19 143530](https://github.com/user-attachments/assets/1a9e1848-7c8a-4624-937f-088ced55c217)
+
 
 ## Kullanılan Teknolojiler 🛠️
 
