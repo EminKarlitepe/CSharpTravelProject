@@ -17,7 +17,8 @@ Form1, kullanıcıların rehberler üzerinde CRUD (Create, Read, Update, Delete)
 - **Rehber Güncelleme** ✏️: Bir rehberin ad ve soyad bilgileri güncellenebilir.
 - **Rehber ID ile Getirme** 🔍: Belirli bir rehberin bilgileri, ID numarası ile getirilip listelenebilir.
 
-- ![image](https://github.com/user-attachments/assets/4c4e137e-7ec3-408a-b27d-c70e2762b3da)
+- ![Ekran görüntüsü 2025-01-19 143516](https://github.com/user-attachments/assets/9c080888-5eaf-449c-b96a-b1ed4edac3e0)
+
 
 
 ### 2. **İstatistik Görüntüleme 📊**
